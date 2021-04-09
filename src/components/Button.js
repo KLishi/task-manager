@@ -7,7 +7,7 @@ const Button = ({color,text,onClick}) => {
 <button onClick={onClick} style={{backgroundColor: color}} className='btn'>{text}</button>
     )}
 Button.defaultProps = {
-    color: 'coral',
+    color: '#c0ded9',
     text:'Add'
 }
 Button.propTypes={
