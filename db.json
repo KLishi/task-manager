@@ -5,19 +5,18 @@
       "text": "Submit assignment",
       "day": "Apr 7th at 12pm",
       "reminder": true
-  },
-  {
-      "id": 2,
-      "text": "Doctor appointment",
-      "day": "Apr 7th at 1pm",
-      "reminder": true
-  },
-  {
+    },
+    {
       "id": 3,
       "text": "Call friend",
       "day": "Apr 7th at 7pm",
-      "reminder": false
-  }
+      "reminder": true
+    },
+    {
+      "text": "complete coursework",
+      "day": "Saturday",
+      "reminder": false,
+      "id": 4
+    }
   ]
-      
 }
