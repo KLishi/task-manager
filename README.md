@@ -1,3 +1,7 @@
+This is a Task-Manager app developed using React.js.The main functionality of this app is to enter tasks with optional reminders and delete them when comleted. In this project I have used React hooks like useState, useLocation, useEffect in the components and used react-router-dom for routes. I have used JSON Server, a fake REST API in this project
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
