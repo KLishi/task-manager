@@ -1,4 +1,4 @@
-This is a Task-Manager app developed using React.js.The main functionality of this app is to enter tasks with optional reminders and delete them when completed. In this project I have used React hooks like useState, useLocation, useEffect in the components and used react-router-dom for routes. I have used JSON Server, a fake REST API in this project
+This is a Task-Manager app developed using React.js.The main functionality of this app is to enter tasks with optional reminders and delete them when completed. In this project I have used React Hooks like useState, useLocation, useEffect in the components and used react-router-dom for routes. I have used JSON Server, a fake REST API in this project
 
 ![](images/taskmanager-0.PNG)
 ![](images/taskmanager-1.PNG)
